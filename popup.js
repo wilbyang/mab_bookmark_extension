@@ -15,7 +15,7 @@ function addBookmark() {
     event.preventDefault();
 
     // The URL to POST our data to
-    var postUrl = 'http://clear-emitter-109218.appspot.com';
+    var postUrl = 'http://clear-emitter-109218.appspot.com/sign';
 
     // Set up an asynchronous AJAX POST request
     var xhr = new XMLHttpRequest();
